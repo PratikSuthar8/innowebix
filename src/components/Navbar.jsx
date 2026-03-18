@@ -8,13 +8,10 @@ function Navbar() {
 		<nav className="fixed top-0 w-full z-50 bg-black/70 backdrop-blur-xl border-b border-white/5">
 			<div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 sm:py-5 flex justify-between items-center">
 				<div className="flex items-center gap-1 text-3xl font-black tracking-tighter">
-					<span className="text-blue-600">i</span>
-					<span className="bg-gradient-to-r from-orange-500 to-amber-500 bg-clip-text text-transparent">
-						W
-					</span>
 					<span className="ml-1 text-2xl">
 						<span className="text-blue-600">Inno</span>
-						<span className="text-orange-500">WebiX</span>
+						<span className="text-orange-500">Web</span>
+						<span className="text-blue-600">iX</span>
 					</span>
 				</div>
 
